@@ -1,0 +1,27 @@
+# Ignorar entornos virtuales
+venv/
+.venv/
+
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Configuración de IDEs
+.idea/
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Datos temporales o grandes (opcional)
+data/
+*.csv
+*.tsv
+*.xlsx
+*.db
